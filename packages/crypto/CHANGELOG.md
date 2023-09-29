@@ -1,5 +1,12 @@
 # @fleet-sdk/crypto
 
+## 0.2.4
+
+### Patch Changes
+
+- Updated dependencies [d08255c]
+  - @fleet-sdk/common@0.2.4
+
 ## 0.2.3
 
 ### Patch Changes
